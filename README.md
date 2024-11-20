@@ -33,8 +33,8 @@ A real-time group chat application built with React for the frontend and Node.js
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/group-chat-app.git
-cd group-chat-app
+git clone https://github.com/Suraj-Chavan1/Group_Chat_App.git
+cd Group_Chat_App
 ```
 
 ### Backend Setup
@@ -74,8 +74,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - [Socket.IO Documentation](https://socket.io/docs/)
 - [Dev.to Tutorial](https://dev.to/novu/building-a-chat-app-with-socketio-and-react-2edj)
 
-## 📞 Contact
-
-Your Name - youremail@example.com
-
-Project Link: [https://github.com/yourusername/group-chat-app](https://github.com/yourusername/group-chat-app)
